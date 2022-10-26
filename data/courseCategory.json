@@ -1,0 +1,48 @@
+[
+    {
+    "id": "01",
+    "courseName": "Computer Science: Programming with a Purpose"
+    },
+
+    {
+    "id": "02",
+    "name": "Python for Everybody"  
+    },
+
+    {
+    "id": "03",
+    "name": "Introduction to Computer Science and Programming"
+    },
+
+    {
+    "id": "04",
+    "name": "IBM Full Stack Software Developer Professional"
+    },
+
+    {
+    "id": "05", 
+    "name": "Fundamentals of Computing"
+    },
+    
+    {
+        "id": "06",	
+        "name": "Google IT Support"	
+    },
+
+    {
+        "id": "07",
+        "name": "Bachelor of Science in Computer Science"
+    },
+
+    {
+        "id": "08",
+        "name": "Computer Science: Algorithms, Theory, and Machines"
+    }, 
+    
+    {
+        "id": "09",
+        "name": "Computational Thinking for Problem Solving"
+    }
+      
+
+]
